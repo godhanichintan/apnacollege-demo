@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first git repositrory
+This is my first git Repositrory
+Author - Chintankumar Godhani
